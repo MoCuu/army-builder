@@ -1,3 +1,6 @@
-demodemodemo
-
 TROJAN ALERT
+
+TROJAN DETECTED
+
+TROJAN TERMINATED
+all good :)
